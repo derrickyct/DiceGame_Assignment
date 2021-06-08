@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceGameAssignment</string>
+    <string name="lower">Lower</string>
+    <string name="higher">Higher</string>
+    <string name="computer">Computer</string>
+    <string name="user">User</string>
+</resources>
