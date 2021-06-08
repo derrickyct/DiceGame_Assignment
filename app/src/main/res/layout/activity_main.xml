@@ -88,7 +88,7 @@
                 android:includeFontPadding="true"
                 android:text="@string/higher"
                 android:textColor="@color/black"
-                app:backgroundTint="@android:color/holo_orange_light" />
+                app:backgroundTint="@color/gold" />
 
             <Button
                 android:id="@+id/btn_lower"
@@ -98,7 +98,7 @@
                 android:layout_weight="1"
                 android:text="@string/lower"
                 android:textColor="@color/black"
-                app:backgroundTint="@android:color/holo_orange_light" />
+                app:backgroundTint="@color/gold" />
 
         </LinearLayout>
 
